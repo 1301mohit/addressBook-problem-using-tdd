@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.addressbook.AddressBookManagerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-06-04T05:16:14" hostname="mohit-Inspiron-15-3567" time="0.046">
+  <properties/>
+  <testcase name="givenWrongFilePath_whenGetListOfFiles_shouldThrowEception" classname="com.bridgelabz.addressbook.AddressBookManagerTest" time="0.046"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
